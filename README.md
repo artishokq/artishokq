@@ -1,0 +1,3 @@
+- Hi, I’m Artem Tkachuk
+- HSE University, Faculty of computer science, Software Engineering
+- Moscow, Russia
